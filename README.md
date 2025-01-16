@@ -1,4 +1,4 @@
-# File Transfer TCP Module
+# File Transfer Module
 
 This module allows you to send and receive files between two machines over a TCP connection.
 
